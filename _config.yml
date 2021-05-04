@@ -1,5 +1,6 @@
 theme: jekyll-theme-merlot
 title: Just For Fun
 description: Funny Demo
+lang: ar-EG
 github:
   is_project_page: false
