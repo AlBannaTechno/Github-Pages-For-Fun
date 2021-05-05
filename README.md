@@ -1,3 +1,7 @@
+---
+title:  "Modified Title"
+---
+
 ## Just For Fun
 
 You can use the [editor on GitHub](https://github.com/AlBannaTechno/Github-Pages-For-Fun/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
